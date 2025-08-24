@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">        <title>what is html</title>
+
+    </head>
+    <body>
+        <EM>people treat you,exactly how they feel about you.</EM>
+        <pre>#SUCCESS MINDSET</pre>
+        <OL>23% OF SMALL BUSNESSES FAIL BECAUSE THERE'S NO MARKET FOR THEIR PRODUCT OR SERVICE</OL>
+        <style>
+            h3{color
+            :pink;
+        font-size:20px}
+            h2{color:blue}
+            h1{color:green}
+            h4{color:brown;
+                font-size:20px;
+            }
+            h5{color:blueviolet;
+            font-size:20px}
+            h6{color:silver}
+        </style>
+        look at me
+        <h1>money comes and go</h1>
+        <h2>hello suresh</h2>
+        <h3>selectors is a valid HTML element.the diclaration block contains one or more declaration separated by semicolons each decalaration includes a CSS property name and a value,seprated by a colon.value is an attribute of the element to be changed.value is the value of the attributs.multiple declarations are separated dy semicolans.declaration block are surounded by curly braces
+        </h3>
+        <h4>A train station that waited for one girl.in rural Japan,a train station stayed open for just one high school stident.for years,train stopped only twice a day-just her school commute.when she graduated,the station quietly closed.</h4>
+        <h5>if a persion saw how quickly they are forgotten after death ,they would never live to please anyone but Allah...</h5>
+        <h1>O allah,protect my heart from everything that has no benefit for my hereafter.Guide me to your forgiveness so that my grave,and protect me from evil so that i may earn Your pleasure.</h1>
+        
+        <div>
+            <button>dont click me</button>
+            <a href="https://youtube.com/@johnyt6842?si=6No70uPI7qiyklLT">link to the best place ever</a>
+            <img>
+        </div>
+    </body>
+</html>
